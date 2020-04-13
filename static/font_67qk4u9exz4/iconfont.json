@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "213098",
+      "name": "摄像头",
+      "font_class": "shexiangtou",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "1013076",
+      "name": "人",
+      "font_class": "wo",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1115042",
+      "name": "记录",
+      "font_class": "jilu",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3207509",
+      "name": "车",
+      "font_class": "che",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "5090059",
+      "name": "摄像头",
+      "font_class": "shexiangtou1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7868897",
+      "name": "房屋",
+      "font_class": "fangwu",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "7922161",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9186071",
+      "name": "多人",
+      "font_class": "duoren",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9579197",
+      "name": "多人 用户",
+      "font_class": "duorenyonghu",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "12011560",
+      "name": "人员进出",
+      "font_class": "renyuanjinchu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "13740810",
+      "name": "陌生人",
+      "font_class": "moshengren",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    }
+  ]
+}

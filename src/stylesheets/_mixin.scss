@@ -1,0 +1,90 @@
+/*
+todo 表格部分
+ */
+.table thead tr th {
+    background: $opacity-color;
+    border: 0 !important;
+    color: #FEFEFE;
+    text-align: center;
+    height: 20px !important;
+    padding: 5px 0;
+  }
+  
+  .table .el-table td {
+    border: 0 !important;
+    padding: 11px 0;
+    line-height: 18px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap !important;
+    color: #ffffff;
+  }
+  
+  .table .el-table td .cell {
+    white-space: nowrap !important;
+  }
+  
+  .table tbody {
+    border: 0 !important;
+  }
+  
+  .table tbody td {
+    background: $opacity-color;
+  }
+  
+  .table tbody tr:nth-child(even) td {
+    background: $opacity-color;
+  }
+  
+  .table .el-table {
+    background: $opacity-color;
+  }
+  
+  .table .el-table tbody tr:hover>td {
+    background-color: #5fc9fb !important;
+    cursor: pointer;
+  
+  }
+  
+  .table .el-table th,
+  .el-table tr {
+    background-color: $opacity-color !important;
+  }
+  
+  /* 很关键下面会有白杠 */
+  .table .el-table::before {
+    background-color: $opacity-color !important;
+  }
+  /* 去除地图logo */
+.BMap_cpyCtrl {
+  display: none;
+}
+
+.anchorBL {
+  display: none;
+}
+//todo 社区基础管理首页切换地图部分样式 
+.SwitchBox .el-checkbox .el-checkbox__input{
+  .el-checkbox__inner{
+    background: #53B8FF;
+    border-color:#53B8FF ;
+  }
+}
+.SwitchBox .el-checkbox{
+  border:0;
+  background:rgba($color: #07359D, $alpha: 0.6);
+  border:1px solid rgba(29, 142, 237, 0.69);
+  .el-checkbox__label{
+    color:#fff
+  }
+}
+.SwitchBox .el-checkbox-group>.is-checked{
+  background:#53B8FF;
+  .is-checked{
+    .el-checkbox__inner{
+      background: #092A7F;
+      border-color:#092A7F ;
+    }
+  }
+  
+}

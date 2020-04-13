@@ -297,7 +297,7 @@ export default {
       driving.search(this.linePoints[0], this.linePoints[3],{waypoints:[this.linePoints[1],this.linePoints[2]]});//waypoints表示途经点 */
       //this.polyline();
     },
-
+    /* 测试 */
     polyline() {
       // console.log(this.locationArr);
       this.bootom_checkarr.forEach(item=>{
